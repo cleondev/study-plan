@@ -1,5 +1,4 @@
 ### Key Points
-- Chương trình học 30 buổi (mỗi buổi 3 tiếng) được thiết kế để bổ túc kiến thức cho một người có 1 năm kinh nghiệm lập trình từ trung tâm Aptech, tập trung vào các môn cơ bản của khoa học máy tính và các công nghệ liên quan đến dự án công ty (.NET, JavaScript, Oracle Database, v.v.).
 - Nội dung tự học và thực hành (60 buổi, mỗi buổi 3 tiếng) sẽ giúp củng cố kiến thức và phát triển kỹ năng thực tế thông qua các bài tập, dự án nhỏ, và tài liệu tham khảo.
 - Chương trình được xây dựng dựa trên các môn học cơ bản như Lập trình, Cấu trúc dữ liệu, Cơ sở dữ liệu, và các công nghệ công ty như .NET MVC, .NET Core, JavaScript, và Oracle Database 19c.
 - Các công cụ như DevExpress, Syncfusion, và Camunda sẽ được giới thiệu trong các buổi học và khuyến khích tự học thêm để làm quen với ứng dụng thực tế.
